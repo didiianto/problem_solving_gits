@@ -1,0 +1,12 @@
+C:\ProjectData\Backup\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+C:\ProjectData\Backup\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+C:\ProjectData\Backup\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+C:\ProjectData\Backup\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csprojResolveAssemblyReference.cache
+C:\ProjectData\Backup\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+C:\ProjectData\Backup\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
+C:\ProjectData\GitHub\problem_solving_gits\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+C:\ProjectData\GitHub\problem_solving_gits\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+C:\ProjectData\GitHub\problem_solving_gits\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
+C:\ProjectData\GitHub\problem_solving_gits\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+C:\ProjectData\GitHub\problem_solving_gits\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+C:\ProjectData\GitHub\problem_solving_gits\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csprojResolveAssemblyReference.cache
